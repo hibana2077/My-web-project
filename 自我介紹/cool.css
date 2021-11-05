@@ -1,0 +1,26 @@
+body{
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+
+    background: #ffffff;
+}
+logo{
+    position: absolute;
+    width: 90px;
+    height: 79px;
+    left: 14px;
+    top: 14px;
+
+    background: url("NTTULOGO.png");
+    border-radius: 111px;
+}
+banner1{
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+
+    background: url(banner1.png);
+}
